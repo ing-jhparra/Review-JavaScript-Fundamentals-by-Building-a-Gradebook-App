@@ -81,13 +81,11 @@
 
     <script>
         function getAverage(scores) {
-            // Calculate the sum of all scores using a for loop
             let sum = 0;
             for (let i = 0; i < scores.length; i++) {
                 sum = sum + scores[i];
             }
             
-            // Divide by the number of scores to get the average
             return sum / scores.length;
         }
         
