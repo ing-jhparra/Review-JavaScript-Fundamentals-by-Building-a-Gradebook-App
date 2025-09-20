@@ -57,6 +57,8 @@ function calcularPromedio2() {
 }
 ```
 
+La función JavaScript forma parte de una página HTML donde se muestra  el cálculo del promedio de calificaciones. La página incluye dos ejemplos prácticos de su ejecución con diferentes conjuntos de datos.
+
 
 | [<img src="https://avatars.githubusercontent.com/u/123877201?v=4" width=115><br><sub>Jesus H. Parra B.</sub>](https://github.com/ing-jhparra)
 | :---: |
