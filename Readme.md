@@ -1,8 +1,10 @@
-El siguiente miniproyecto del curso [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) en FreeCodeCamp es para optar por un cupo en el curso : 
+Proyecto del curso [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) de la plataforma [FreeCodeCamp](https://www.freecodecamp.org/)
 
-### Aprende ethereum de la mano de Ethkipu & Henry
 
-El miniproyecto
+<div align="center">
+  <h3>Promedios</h3>
+  <img src="promedios.jpg" alt="Promedios" width="300">
+</div>
 
 ## Review JavaScript Fundamentals by Building a Gradebook App.
 
